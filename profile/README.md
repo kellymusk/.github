@@ -1,4 +1,4 @@
-# 🌍 AFRAMP: Africa's Financial Gateway
+# 🌍 AFRAMP: Africa's Financial Bridge
 
 ## Don't Trust, Verify
 
